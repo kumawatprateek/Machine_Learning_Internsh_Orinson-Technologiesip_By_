@@ -11,6 +11,14 @@ This repository contains a project on **Object Detection in Images** using state
 - Capable of handling various image formats and resolutions.
 - Generates bounding boxes around detected objects and labels them with class names and confidence scores.
 
+## Video Explanation
+
+For a detailed walkthrough and explanation of the project, watch the following video:
+
+[![Object Detection Project Explanation](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+Click on the image above or [here](https://www.youtube.com/watch?v=VIDEO_ID) to watch the video.
+
 ## Requirements
 
 To run this project, you will need the following dependencies:
