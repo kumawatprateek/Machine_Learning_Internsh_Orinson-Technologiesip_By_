@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 The object detection model outputs images with bounding boxes around detected objects, along with class labels and confidence scores. Here's an example of an output image:
 
-![Example Image](results/sample_output.png)
+![Example Image](download.png)
 
 ## License
 
