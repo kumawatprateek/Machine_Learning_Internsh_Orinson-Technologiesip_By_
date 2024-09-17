@@ -15,9 +15,9 @@ This repository contains a project on **Object Detection in Images** using state
 
 For a detailed walkthrough and explanation of the project, watch the following video:
 
-[![Object Detection Project Explanation](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Object Detection Project Explanation](https://youtu.be/HcrDIscma80?si=nSKfuVawjSOaU8w)](https://youtu.be/HcrDIscma80?si=nSKfuVawjSOaU8w)
 
-Click on the image above or [here](https://www.youtube.com/watch?v=VIDEO_ID) to watch the video.
+Click on the image above or [here](https://youtu.be/HcrDIscma80?si=nSKfuVawjSOaU8w) to watch the video.
 
 ## Requirements
 
