@@ -1,4 +1,4 @@
-# Student Posttest Score Predictor 🎓📊
+# Student Score Predictor 🎓📊
 
 This project is a **machine learning**-powered **web application** that predicts the posttest scores of students based on a variety of features like school setting, teaching method, and pretest scores. The application is built using **Streamlit** for the frontend and a pre-trained **Random Forest model** for predictions.
 
@@ -56,6 +56,7 @@ The dataset used for training the model contains information about students' tes
 ## Files in the Repository 📂
 
 - `main_app.py`: The Streamlit application for the user interface and prediction logic.
+- `Predict Test Scores of students.ipyn`: This Jupyter notebook processes the data, loads it, and builds the machine learning model.
 - `rf_model.pkl`: The pre-trained Random Forest model used for predictions.
 - `README.md`: This file, providing an overview of the project.
 - `requirements.txt`: A list of dependencies needed to run the project.
@@ -72,6 +73,9 @@ The dataset used for training the model contains information about students' tes
 - **Streamlit**: For building the web application.
 - **Scikit-learn**: For the machine learning model.
 - **Numpy**: For numerical operations.
+- **Seaborn**: For creating visualizations and improving the aesthetics of plots.
+- **Matplotlib**: For generating plots and visualizations to analyze data and model performance.
+- **Pandas**: For data manipulation, including loading, cleaning, and processing the dataset.
 
 ## Future Improvements 🛠️
 
@@ -88,5 +92,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Contributions**: Feel free to fork this repository, submit pull requests, or create issues for suggestions and bug reports.
 
 ### Author:
-- **[Your Name]** - [GitHub](https://github.com/yourusername)
+- **[Prateek Kumawat]** - [GitHub](https://github.com/kumawatprateek)
 
