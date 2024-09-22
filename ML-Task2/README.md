@@ -52,7 +52,7 @@ The dataset used for training the model contains information about students' tes
 - The model used is a **Random Forest Regressor**, trained on the dataset.
 - It predicts the posttest score based on the provided features.
 - Below is a **visualization of the model's** performance, showing how well the predicted scores align with the actual scores.
-- (mod1.png)
+![Example Image](mod1.png)
 - The model file `rf_model.pkl` is loaded into the Streamlit app for predictions.
 
 ## Files in the Repository 📂
