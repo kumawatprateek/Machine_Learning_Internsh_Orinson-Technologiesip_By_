@@ -78,7 +78,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 # Load dataset
-data = pd.read_csv('india_gdp.csv')
+data = pd.read_csv('India_GDP_Data.csv')
 
 # Split data into training and testing sets
 X = data[['GDP']]
