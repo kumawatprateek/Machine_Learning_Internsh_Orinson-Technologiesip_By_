@@ -41,7 +41,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-performance-prediction.git
+   github.com/kumawatprateek/Machine_Learning_Internship_By_Orinson-Technologies/tree/main/ML-Task4
    ```
 
 2. Navigate to the project directory:
@@ -91,15 +91,3 @@ Contributions to improve the project are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this README file according to your project's specific needs and additional information you may want to include.
-```
-
-### Instructions for Use
-- Replace `yourusername` in the **Installation** section with your actual GitHub username.
-- Make sure to add any additional information that may be relevant to your specific project context. 
-- Consider including a **Screenshots** section if you want to showcase any output or visualizations from your project.
-
-Once you’ve customized it, you can create a new `README.md` file in your repository and paste this content into it!
