@@ -78,6 +78,14 @@ Visualizations are provided to help understand the relationships between differe
 - Histogram of Attendance Rate distribution by Pass/Fail status.
 - ROC curve to evaluate the model's performance.
 
+### Example of the Dataset
+
+| Student ID | Study Hours per Week | Attendance Rate | Previous Grades | Participation in Extracurricular Activities | Parent Education Level | Passed |
+|------------|----------------------|------------------|------------------|----------------------------------------------|------------------------|--------|
+| S00001     | 12.5                 | NaN              | 75.0             | Yes                                          | Master                 | Yes    |
+| S00002     | 9.3                  | 95.3             | 60.6             | No                                           | High School            | No     |
+
+
 ## Results
 The model achieved an accuracy of approximately **52.59%** on the test dataset. The confusion matrix and classification report provide insights into the model's prediction performance.
 
